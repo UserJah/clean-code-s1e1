@@ -2,7 +2,7 @@
 .page {
   background-color: #f8f8f8;
   color: #333;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 
 .header {
@@ -17,7 +17,7 @@
 }
 
 .header .more-info {
-  font-family: fantasy, cursive;
+  font-family: 'Fantasy', cursive;
 }
 
 @media (max-width: 768px) {
@@ -46,7 +46,7 @@
 
 .task-list {
   margin: 0;
-  padding: 0px;
+  padding: 0;
 }
 
 .task-list-item,
@@ -61,11 +61,11 @@
 
 .button {
   background: none;
-  border: 0px;
+  border: 0;
   color: #888;
   font-size: 15px;
   width: 60px;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato', sans-serif;
   cursor: pointer;
 }
 
@@ -94,7 +94,7 @@
   border: 1px solid #ddd;
   background: #fff;
   border-radius: 6px;
-  font-family: Lato, sans-serif;
+  font-family: 'Lato', sans-serif;
   color: #888;
 }
 
